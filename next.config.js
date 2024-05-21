@@ -1,4 +1,5 @@
-/** @type {import('next').NextConfig} */
+// next.config.js
+
 const nextConfig = {
   // Cấu hình basePath nếu ứng dụng của bạn được triển khai dưới một basePath cụ thể
   basePath: "/home",
